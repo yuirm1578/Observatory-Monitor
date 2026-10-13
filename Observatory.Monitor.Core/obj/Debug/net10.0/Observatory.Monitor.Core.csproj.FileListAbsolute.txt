@@ -1,0 +1,12 @@
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\bin\Debug\net10.0\Observatory.Monitor.Core.deps.json
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\bin\Debug\net10.0\Observatory.Monitor.Core.dll
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\bin\Debug\net10.0\Observatory.Monitor.Core.pdb
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.AssemblyInfoInputs.cache
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.AssemblyInfo.cs
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.csproj.CoreCompileInputs.cache
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.sourcelink.json
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.dll
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\refint\Observatory.Monitor.Core.dll
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\Observatory.Monitor.Core.pdb
+C:\CYRproj\Observatory-Monitor\Observatory.Monitor.Core\obj\Debug\net10.0\ref\Observatory.Monitor.Core.dll

@@ -1,0 +1,15 @@
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\bin\Debug\net10.0\Telescope.Simulator.exe
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\bin\Debug\net10.0\Telescope.Simulator.deps.json
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\bin\Debug\net10.0\Telescope.Simulator.runtimeconfig.json
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\bin\Debug\net10.0\Telescope.Simulator.dll
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\bin\Debug\net10.0\Telescope.Simulator.pdb
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.AssemblyInfoInputs.cache
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.AssemblyInfo.cs
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.csproj.CoreCompileInputs.cache
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.sourcelink.json
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.dll
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\refint\Telescope.Simulator.dll
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.pdb
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\Telescope.Simulator.genruntimeconfig.cache
+C:\CYRproj\Observatory-Monitor\Telescope.Simulator\obj\Debug\net10.0\ref\Telescope.Simulator.dll

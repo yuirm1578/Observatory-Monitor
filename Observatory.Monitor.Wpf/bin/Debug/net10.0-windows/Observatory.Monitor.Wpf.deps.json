@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Observatory.Monitor.Wpf/1.0.0": {
+        "dependencies": {
+          "Observatory.Monitor.Core": "1.0.0"
+        },
+        "runtime": {
+          "Observatory.Monitor.Wpf.dll": {}
+        }
+      },
+      "Observatory.Monitor.Core/1.0.0": {
+        "runtime": {
+          "Observatory.Monitor.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observatory.Monitor.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observatory.Monitor.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

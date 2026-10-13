@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Observatory.Monitor.Core/Observatory.Monitor.Core.csproj" />
+  <Project Path="Observatory.Monitor.Wpf/Observatory.Monitor.Wpf.csproj" />
+  <Project Path="Observatory.Tests/Observatory.Tests.csproj" />
+  <Project Path="Telescope.Simulator/Telescope.Simulator.csproj" />
+</Solution>
