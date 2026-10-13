@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Observatory.Monitor.Wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b445e5f137ecf295e13c3455e7a082e8b389b18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7375100c7602e88c7bef8dcafecaea15e110b54")]
 [assembly: System.Reflection.AssemblyProductAttribute("Observatory.Monitor.Wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Observatory.Monitor.Wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
